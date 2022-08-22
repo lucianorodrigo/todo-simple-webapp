@@ -1,16 +1,7 @@
-# React Crash Course (TodoList)
+# Simple Todo List
 
-This is the code for the crash course on YouTube
+This is the code based on axios with a external api.
 
-## Quick Start
+# you can see it owrking on:
 
-```bash
-# Install dependencies
-npm install
-
-# Serve on localhost:3000
-npm start
-
-# Build for production
-npm run build
-```
+https://lurosbin-todo-simple-list.herokuapp.com/
